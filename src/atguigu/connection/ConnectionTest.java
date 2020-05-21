@@ -1,4 +1,4 @@
-package connection;
+package atguigu.connection;
 
 import java.io.InputStream;
 import java.sql.Connection;
