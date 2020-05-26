@@ -10,8 +10,8 @@ import java.sql.SQLException;
 
 import org.junit.Test;
 
-import com.atguigu3.bean.Customer;
-import com.atguigu3.util.JDBCUtils;
+import atguigu2.bean.Customer;
+import atguigu2.util.JDBCUtils;
 
 /**
  * 

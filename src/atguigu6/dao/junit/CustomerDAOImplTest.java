@@ -8,9 +8,9 @@ import java.util.List;
 
 import org.junit.Test;
 
-import com.atguigu1.util.JDBCUtils;
-import com.atguigu2.bean.Customer;
-import com.atguigu2.dao.CustomerDAOImpl;
+import atguigu5.util.JDBCUtils;
+import atguigu6.bean.Customer;
+import atguigu6.dao.CustomerDAOImpl;
 
 public class CustomerDAOImplTest {
 

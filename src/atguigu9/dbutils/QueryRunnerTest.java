@@ -16,8 +16,8 @@ import org.apache.commons.dbutils.handlers.MapListHandler;
 import org.apache.commons.dbutils.handlers.ScalarHandler;
 import org.junit.Test;
 
-import com.atguigu2.bean.Customer;
-import com.atguigu4.util.JDBCUtils;
+import atguigu6.bean.Customer;
+import atguigu8.util.JDBCUtils;
 
 /*
  * commons-dbutils 是 Apache 组织提供的一个开源 JDBC工具类库,封装了针对于数据库的增删改查操作

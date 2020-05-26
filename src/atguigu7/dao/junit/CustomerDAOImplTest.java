@@ -7,9 +7,9 @@ import java.sql.Date;
 import java.util.List;
 import org.junit.Test;
 
-import com.atguigu4.util.JDBCUtils;
-import com.atguigu2.bean.Customer;
-import com.atguigu3.dao.CustomerDAOImpl;
+import atguigu8.util.JDBCUtils;
+import atguigu6.bean.Customer;
+import atguigu7.dao.CustomerDAOImpl;
 
 public class CustomerDAOImplTest {
 

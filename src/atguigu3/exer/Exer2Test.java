@@ -11,7 +11,7 @@ import javax.swing.plaf.synth.SynthStyle;
 
 import org.junit.Test;
 
-import com.atguigu3.util.JDBCUtils;
+import atguigu2.util.JDBCUtils;
 
 //课后练习2
 public class Exer2Test {

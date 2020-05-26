@@ -10,9 +10,9 @@ import java.util.List;
 
 import org.junit.Test;
 
-import com.atguigu3.bean.Customer;
-import com.atguigu3.bean.Order;
-import com.atguigu3.util.JDBCUtils;
+import atguigu2.bean.Customer;
+import atguigu2.bean.Order;
+import atguigu2.util.JDBCUtils;
 
 /**
  * 

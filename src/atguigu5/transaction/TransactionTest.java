@@ -9,7 +9,7 @@ import java.sql.SQLException;
 
 import org.junit.Test;
 
-import com.atguigu1.util.JDBCUtils;
+import atguigu5.util.JDBCUtils;
 /*
  * 1.什么叫数据库事务？
  * 事务：一组逻辑操作单元,使数据从一种状态变换到另一种状态。

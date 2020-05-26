@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 import org.junit.Test;
 
-import com.atguigu3.util.JDBCUtils;
+import atguigu2.util.JDBCUtils;
 
 /**
  * 
