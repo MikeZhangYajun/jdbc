@@ -1,13 +1,11 @@
 package atguigu8.connection;
 
-import java.beans.PropertyVetoException;
 import java.sql.Connection;
 import java.sql.SQLException;
 
 import org.junit.Test;
 
 import com.mchange.v2.c3p0.ComboPooledDataSource;
-import com.mchange.v2.c3p0.DataSources;
 
 public class C3P0Test {
 	//方式一：
